@@ -357,6 +357,12 @@ form .btn2{
     display: none;
 }
 
+@media screen and (min-width:1200px){
+    body{
+        margin: 40px ;     
+    }
+ }
+
 @media only screen and (max-width: 600px){
     #header{
         background-image: url(./images/Header.Small.png);
